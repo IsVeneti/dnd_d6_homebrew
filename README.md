@@ -7,4 +7,4 @@ To use in a DnD game, the hitpoints of the player characters (PC) as well as the
 need to be adjusted, since the damage output of the dice is too low for the regular DnD hitpoints.
 
 ## License
-Apache-2.0
+(Aache-2.0)[https://choosealicense.com/licenses/apache-2.0/]
