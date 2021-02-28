@@ -6,5 +6,5 @@ ones used in dnd, determining damage, range, healing and shielding (defence).
 To use in a DnD game, the hitpoints of the player characters (PC) as well as the enemies 
 need to be adjusted, since the damage output of the dice is too low for the regular DnD hitpoints.
 
-## License
-[Aache-2.0](https://choosealicense.com/licenses/apache-2.0/)
+## Licens
+[Apache-2.0](https://choosealicense.com/licenses/apache-2.0/)
